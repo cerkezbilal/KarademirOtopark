@@ -1,0 +1,16 @@
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe.config
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.pdb
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csprojAssemblyReference.cache
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmAnasayfa.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.Properties.Resources.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.GenerateResource.cache
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.CoreCompileInputs.cache
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.exe
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.pdb
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmAracOtoparkCikis.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmAracOtoparkKayit.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmAracOtoparkYerleri.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmMarka.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmSeri.resources
+D:\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.frmSatisListeleme.resources
